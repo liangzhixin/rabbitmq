@@ -7,9 +7,7 @@ spring:
     port: 5672
     username: lzx
     password: lzx
-    # ����������Ϣ��exchangeȷ�ϻ���
     publisher-confirms: true
-    # ���ӵ�����ʱʹ�õ���������
     virtual-host: /
   profiles:
     active: yl
