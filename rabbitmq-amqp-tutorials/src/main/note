@@ -13,3 +13,8 @@
 
 
 
+Default Exchange,是特殊的Direct Exchange,是rabbitmq内部默认的一个交换机.
+    该交换机的name是空字符串,所有queue都默认binding 到该交换机上.
+    所有binding到该交换机上的queue,routing-key(理解为binding-key)都和queue的name一样.
+
+
