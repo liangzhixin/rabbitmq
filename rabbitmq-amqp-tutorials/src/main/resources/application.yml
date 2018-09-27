@@ -1,0 +1,60 @@
+
+spring:
+  application:
+    name: rabbitmq-amqp-tutorials
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: lzx
+    password: lzx
+    # 开启发送消息到exchange确认机制
+    publisher-confirms: true
+    # 连接到代理时使用的虚拟主机
+    virtual-host: /
+  profiles:
+    active: yl
+server:
+  port: 1001
+
+---
+spring:
+  profiles: dev
+  boot:
+    queue:  "spring-boot-queue-2"
+    exchange:  "spring-boot-exchange-2"
+    bind:
+      key: "spring-boot-bind-key-2"
+    other:
+      queue: "spring-boot-other-queue"
+      bind:
+        key: "spring-boot-bind-other-key"
+
+---
+spring:
+  profiles: test
+  boot:
+    queue:  "spring-boot-queue-3"
+    exchange:  "spring-boot-exchange-3"
+    bind:
+      key: "spring-boot-bind-key-3"
+    other:
+      queue: "spring-boot-other-queue"
+      bind:
+        key: "spring-boot-bind-other-key"
+---
+spring:
+  profiles: yl
+  boot:
+    queue:  "spring-boot-queue-4"
+    exchange:  "spring-boot-exchange-4"
+    other:
+      queue: "spring-boot-other-queue"
+    another:
+      queue: "spring-boot-another-queue"
+
+
+# 更多属性配置请见springboot官网https://docs.spring.io/spring-boot/docs/2.0.5.RELEASE/reference/htmlsingle/
+
+是否启用发布重试
+#        spring.rabbitmq.listener.retry.enabled=true
+#        spring.rabbitmq.listener.retry.max-attempts=3
