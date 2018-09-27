@@ -60,7 +60,6 @@
         <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/onetoone/OneConsumer.java" />
         <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2one/One2OneConfiguration.java" />
         <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/RabbitmqAmqpTutorialsApplication.java" />
         <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/controller/One2OneController.java" />
         <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/schedule/One2OneController.java" />
         <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/schedule/One2OneJob.java" />
@@ -100,6 +99,7 @@
         <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/FanoutExchangeAnnotation.java" />
         <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/note" />
         <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/RabbitmqAmqpTutorialsApplication.java" />
       </list>
     </option>
   </component>
@@ -286,12 +286,12 @@
       <workItem from="1537872547930" duration="3120000" />
       <workItem from="1537948616487" duration="34450000" />
       <workItem from="1538042911941" duration="494000" />
-      <workItem from="1538043418491" duration="288000" />
+      <workItem from="1538043418491" duration="586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40056000" />
+    <option name="totallyTimeSpent" value="40354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="860" extended-state="0" />
@@ -320,7 +320,7 @@
       <window_info anchor="bottom" id="Spring" order="15" />
       <window_info anchor="bottom" id="Terminal" order="14" weight="0.32956153" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26535088" />
-      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems" order="2" weight="0.32956153" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info id="Web" order="0" side_tool="true" />
       <window_info id="JRebel" order="4" side_tool="true" />
