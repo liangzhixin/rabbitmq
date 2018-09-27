@@ -8,6 +8,8 @@
     2.增强稳定性，如果一个消费者出现问题，不会影响对消息队列中消息的处理.
 
 
+# 更多属性配置请见springboot官网https://docs.spring.io/spring-boot/docs/2.0.5.RELEASE/reference/htmlsingle/
+
 
 
 

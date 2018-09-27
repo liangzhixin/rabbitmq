@@ -55,6 +55,3 @@ spring:
 
 # 更多属性配置请见springboot官网https://docs.spring.io/spring-boot/docs/2.0.5.RELEASE/reference/htmlsingle/
 
-是否启用发布重试
-#        spring.rabbitmq.listener.retry.enabled=true
-#        spring.rabbitmq.listener.retry.max-attempts=3
