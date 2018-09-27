@@ -7,9 +7,9 @@ spring:
     port: 5672
     username: lzx
     password: lzx
-    # 开启发送消息到exchange确认机制
+    # 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷息锟斤拷exchange确锟较伙拷锟斤拷
     publisher-confirms: true
-    # 连接到代理时使用的虚拟主机
+    # 锟斤拷锟接碉拷锟斤拷锟斤拷时使锟矫碉拷锟斤拷锟斤拷锟斤拷锟斤拷
     virtual-host: /
   profiles:
     active: yl
@@ -51,7 +51,4 @@ spring:
       queue: "spring-boot-other-queue"
     another:
       queue: "spring-boot-another-queue"
-
-
-# 更多属性配置请见springboot官网https://docs.spring.io/spring-boot/docs/2.0.5.RELEASE/reference/htmlsingle/
 
