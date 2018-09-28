@@ -19,7 +19,30 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="RabbitmqAmqpTutorialsApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/RabbitmqAmqpTutorialsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/note">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,6 +153,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,22 +189,10 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="rabbitmqamqptutorials" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabbitmq-amqp-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmqamqptutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="one2one" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,15 +303,23 @@
       <workItem from="1538043418491" duration="744000" />
       <workItem from="1538044379734" duration="68000" />
       <workItem from="1538044740429" duration="23000" />
-      <workItem from="1538045051804" duration="484000" />
+      <workItem from="1538045051804" duration="620000" />
+      <workItem from="1538045692808" duration="52000" />
+      <workItem from="1538045752573" duration="9000" />
+      <workItem from="1538045773679" duration="11000" />
+      <workItem from="1538045791926" duration="6000" />
+      <workItem from="1538045804546" duration="11000" />
+      <workItem from="1538045822801" duration="3000" />
+      <workItem from="1538094402267" duration="313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41065000" />
+    <option name="totallyTimeSpent" value="41606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="860" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32956153" />
@@ -321,7 +343,7 @@
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32956153" />
       <window_info anchor="bottom" id="Spring" order="15" />
       <window_info anchor="bottom" id="Terminal" order="14" weight="0.32956153" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2755848" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.31505847" />
       <window_info anchor="bottom" id="Problems" order="2" weight="0.32956153" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info id="Web" order="0" side_tool="true" />
@@ -617,17 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/RabbitmqAmqpTutorialsApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/FanoutConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
@@ -649,10 +660,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/RabbitmqAmqpTutorialsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/note">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
