@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/rabbitmq-amqp-tutorials.iml" filepath="$PROJECT_DIR$/rabbitmq-amqp-tutorials/rabbitmq-amqp-tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/main.iml" filepath="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/test/test.iml" filepath="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/test/test.iml" />
     </modules>
   </component>
 </project>

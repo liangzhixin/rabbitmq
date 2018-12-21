@@ -1,13 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b3ed31a-602b-49a5-834b-f3a7ad1a3174" name="Default" comment="">
+    <list default="true" id="01b33b97-f7a5-40c7-88b3-6e8d4637a40a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/note" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/note" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/Send/target/" />
-    <ignored path="$PROJECT_DIR$/Recv/target/" />
-    <ignored path="$PROJECT_DIR$/rabbitmq-amqp-tutorials/target/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,110 +82,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="RabbitmqAmqpTutorialsApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/RabbitmqAmqpTutorialsApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="note" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/note">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>binding</find>
-      <find>queuea</find>
-      <find>iws</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Send/src/Send.java" />
-        <option value="$PROJECT_DIR$/Send/pom.xml" />
-        <option value="$PROJECT_DIR$/Send/src/main/java/Send.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/tut1/Tut1Config.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/onetoone/Tut1Config.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/onetoone/OneConsumer.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2one/One2OneConfiguration.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/controller/One2OneController.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/schedule/One2OneController.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/schedule/One2OneJob.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2one/OneConsumer.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2many/One2ManyConsumer1.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2many/One2ManyConsumer2.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2many/One2ManyProducer.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/many2many/Many2ManyConsumer2.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/many2many/Many2ManyConsumer1.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/One2OneConfiguration.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/pom.xml" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/many2many/Many2ManyProducer1.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/many2many/Many2ManyProducer2.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/sendObj/ObjConsumer.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/RabbitMQConfiguration.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/TopicConfiguration.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/TopicSender.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/topicExchange/TopicReceive.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/sendObj/ObjProducer.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/FanoutExchange.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/topicExchange/TopicSender.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/fanoutExchange/FanoutReceiver.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/sendObj/User.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/fanoutExchange/FanoutSender.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/directExchange/DirectReceiver.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/FanoutConfiguration.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/DirectConfiguration.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/DAirectExchange.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/directExchange/DirectSender.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/directExchange/DirectSender.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/directExchange/DirectExchangeSender.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/DirectExchange.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/direct/DirectSender.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2one/OneProducer.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/DirectExchangeAnnotation.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/TopicExchangeAnnotation.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/FanoutExchangeAnnotation.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/RabbitmqAmqpTutorialsApplication.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/.gitignore" />
-        <option value="$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/note" />
-      </list>
-    </option>
-  </component>
-  <component name="JRebelWorkspace">
-    <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -126,26 +91,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="860" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-71" />
+    <option name="y" value="24" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,40 +107,14 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabbitmq-amqp-tutorials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabbitmq-amqp-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabbitmq-amqp-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabbitmq-amqp-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabbitmq-amqp-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmqamqptutorials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,26 +123,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15234375" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.springframework.amqp.tutorials.rabbitmqamqptutorials.many2many" />
-      <recent name="org.springframework.amqp.tutorials.rabbitmqamqptutorials.one2many" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -249,20 +161,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Recv" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="RabbitmqAmqpTutorialsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="rabbitmq-amqp-tutorials" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springframework.amqp.tutorials.rabbitmqamqptutorials.RabbitmqAmqpTutorialsApplication" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -291,456 +189,58 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b3ed31a-602b-49a5-834b-f3a7ad1a3174" name="Default" comment="" />
-      <created>1537870805400</created>
+      <changelist id="01b33b97-f7a5-40c7-88b3-6e8d4637a40a" name="Default" comment="" />
+      <created>1545398823474</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537870805400</updated>
-      <workItem from="1537870807052" duration="1722000" />
-      <workItem from="1537872547930" duration="3120000" />
-      <workItem from="1537948616487" duration="34450000" />
-      <workItem from="1538042911941" duration="494000" />
-      <workItem from="1538043418491" duration="744000" />
-      <workItem from="1538044379734" duration="68000" />
-      <workItem from="1538044740429" duration="23000" />
-      <workItem from="1538045051804" duration="620000" />
-      <workItem from="1538045692808" duration="52000" />
-      <workItem from="1538045752573" duration="9000" />
-      <workItem from="1538045773679" duration="11000" />
-      <workItem from="1538045791926" duration="6000" />
-      <workItem from="1538045804546" duration="11000" />
-      <workItem from="1538045822801" duration="3000" />
-      <workItem from="1538094402267" duration="313000" />
+      <updated>1545398823474</updated>
+      <workItem from="1545398825509" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41606000" />
+    <option name="totallyTimeSpent" value="8000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="860" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="JRebel Console" order="10" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="JRebel Executor" order="12" weight="0.48797736" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="8" />
-      <window_info id="Designer" order="3" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info id="Image Layers" order="5" />
-      <window_info anchor="bottom" id="Java Enterprise" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.4526167" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32956153" />
-      <window_info anchor="bottom" id="Spring" order="15" />
-      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32956153" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.31505847" />
-      <window_info anchor="bottom" id="Problems" order="2" weight="0.32956153" />
-      <window_info anchor="right" id="Bean Validation" order="0" />
-      <window_info id="Web" order="0" side_tool="true" />
-      <window_info id="JRebel" order="4" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="16" weight="0.3847242" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2one/OneProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/Recv/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/Send/src/main/java/Send.java" />
-    <entry file="file://$PROJECT_DIR$/Send/src/Send.java" />
-    <entry file="file://$PROJECT_DIR$/Recv/pom.xml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/rabbitmq-client/1.2.0/rabbitmq-client-1.2.0.jar!/com/rabbitmq/client/Connection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/rabbitmq-client/1.2.0/rabbitmq-client-1.2.0.jar!/com/rabbitmq/client/ConnectionFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Send/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/Send/src/main/java/Send.java" />
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/onetoone/Tut1Config.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.9.RELEASE/spring-context-5.0.9.RELEASE.jar!/org/springframework/scheduling/annotation/Scheduled.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/schedule/One2OneJob.java" />
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2many/One2ManyConsumer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2many/One2ManyConsumer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/many2many/Many2ManyConsumer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/many2many/Many2ManyConsumer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2many/One2ManyProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.6.RELEASE/spring-amqp-2.0.6.RELEASE.jar!/org/springframework/amqp/core/AmqpTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2one/OneConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/many2many/Many2ManyProducer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/many2many/Many2ManyProducer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/topicExchange.java" />
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/sendObj/ObjConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.6.RELEASE/spring-amqp-2.0.6.RELEASE.jar!/org/springframework/amqp/core/BindingBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="94" column="30" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/TopicSender.java" />
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/sendObj/ObjProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/sendObj/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/fanoutExchange/FanoutSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/topicExchange/TopicSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/fanoutExchange/FanoutReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/DirectConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/directExchange/DirectReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/directExchange/DirectSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/directExchange/DirectExchangeSender.java" />
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/direct/DirectSender.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.6.RELEASE/spring-rabbit-2.0.6.RELEASE.jar!/org/springframework/amqp/rabbit/annotation/QueueBinding.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/note.txt" />
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/DirectExchangeAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/topicExchange/TopicReceive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/TopicConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/TopicExchangeAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-249">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/annotation/FanoutExchangeAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/FanoutConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/config/RabbitMQConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/one2one/OneProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/java/org/springframework/amqp/tutorials/rabbitmqamqptutorials/RabbitmqAmqpTutorialsApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-amqp-tutorials/src/main/note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-  </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>rabbitmq-amqp-tutorials</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -753,9 +253,8 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectLibrariesConfigurable.UI">
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.rabbitmq:rabbitmq-client:1.3.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
